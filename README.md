@@ -1,16 +1,24 @@
-# reminder_app
+# 📅 Flutter Reminder App
 
-A new Flutter project.
+A cross-platform (Android & iOS) Reminder App built with Flutter. Users can create, view, and manage reminders with ease. Notifications alert users at the scheduled time.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 📝 Add reminders with:
+  - Custom **reason/title**
+  - **Date** and **time** selection
+- 🔔 Receive **local notifications** at the scheduled time
+- 🏠 View all reminders on the **home screen**
+- ✅ Mark reminders as **completed** by checking a box
+- 📱 Works on both **Android** and **iOS**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📬 Contact
+
+For any questions or collaboration inquiries, feel free to reach out via GitHub Issues or connect on LinkedIn.
+
+- 🌐 Portfolio: [offfahad.netlify.app](https://offfahad.netlify.app/)
+- 💼 LinkedIn: [linkedin.com/in/offfahad](https://www.linkedin.com/in/offfahad)
+- 🐙 GitHub: [github.com/offfahad](https://github.com/offfahad)
